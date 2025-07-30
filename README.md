@@ -42,49 +42,47 @@ Performance is evaluated using:
 
 ## Example Outputs
 
-Below are examples of qualitative results from the trained models:
+### MONAI 2D U-Net
 
-- Input MRI slice (grayscale)
-- Ground truth segmentation overlaid in color
-- Model prediction overlaid in color
+- **Beginning of training**  
+  <img src="examples/2d-monai/2dm-begi.png" width="400"/>
 
-## 🖼️ Example Outputs
+- **End of training**  
+  <img src="examples/2d-monai/2dm-fini.png" width="400"/>
 
-### 📘 MONAI 2D U-Net
+- **Overlayed prediction**  
+  <img src="examples/2d-monai/2dm-fino.png" width="400"/>
 
-- **Beginning of training**
-  ![](examples/2d-monai/2dm-begi.png)
+- **Training and validation loss**  
+  <img src="examples/2d-monai/2dm-plo.png" width="400"/>
 
-- **End of training**
-  ![](examples/2d-monai/2dm-fini.png)
+---
 
-- **Overlayed prediction**
-  ![](examples/2d-monai/2dm-fino.png)
+### MONAI 3D U-Net
 
-- **Training and validation loss**
-  ![](examples/2d-monai/2dm-plo.png)
+- **Beginning of training**  
+  <img src="examples/3d-monai/3dm-begi.png" width="400"/>
 
-### 📗 MONAI 3D U-Net
+- **End of training**  
+  <img src="examples/3d-monai/3dm-fini.png" width="400"/>
 
-- **Beginning of training**
-  ![](examples/3d-monai/3dm-begi.png)
+- **Overlayed prediction**  
+  <img src="examples/3d-monai/3dm-fino.png" width="400"/>
 
-- **End of training**
-  ![](examples/3d-monai/3dm-fini.png)
+- **Training and validation loss**  
+  <img src="examples/3d-monai/3dm-plo.png" width="400"/>
 
-- **Overlayed prediction**
-  ![](examples/3d-monai/3dm-fino.png)
+---
 
-- **Training and validation loss**
-  ![](examples/3d-monai/3dm-plo.png)
+### MONAI Validation Dice Trend
 
-### 📊 MONAI Validation Dice Trend
+- <img src="examples/mon-val.png" width="500"/>
 
-- ![](examples/mon-val.png)
+---
 
-### 📙 nnU-Net 2D/3D Combined
+### nnU-Net 2D/3D Combined
 
-- ![](examples/nnunet.png)
+- <img src="examples/nnunet.png" width="500"/>
 
 ---
 
