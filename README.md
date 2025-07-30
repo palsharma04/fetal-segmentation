@@ -1,4 +1,4 @@
-# fetal-segmentation
+# Deep Learning-Based Multi-Label Segmentation of Internal Uterine Structures in bSSFP MRI
 
 # Project Summary
 
