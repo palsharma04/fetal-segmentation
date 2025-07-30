@@ -48,8 +48,43 @@ Below are examples of qualitative results from the trained models:
 - Ground truth segmentation overlaid in color
 - Model prediction overlaid in color
 
-![Axial Example](examples/axial_output.png)
-![Coronal Example](examples/coronal_output.png)
+## 🖼️ Example Outputs
+
+### 📘 MONAI 2D U-Net
+
+- **Beginning of training**
+  ![](examples/2d-monai/2dm-begi.png)
+
+- **End of training**
+  ![](examples/2d-monai/2dm-fini.png)
+
+- **Overlayed prediction**
+  ![](examples/2d-monai/2dm-fino.png)
+
+- **Training and validation loss**
+  ![](examples/2d-monai/2dm-plo.png)
+
+### 📗 MONAI 3D U-Net
+
+- **Beginning of training**
+  ![](examples/3d-monai/3dm-begi.png)
+
+- **End of training**
+  ![](examples/3d-monai/3dm-fini.png)
+
+- **Overlayed prediction**
+  ![](examples/3d-monai/3dm-fino.png)
+
+- **Training and validation loss**
+  ![](examples/3d-monai/3dm-plo.png)
+
+### 📊 MONAI Validation Dice Trend
+
+- ![](examples/mon-val.png)
+
+### 📙 nnU-Net 2D/3D Combined
+
+- ![](examples/nnunet.png)
 
 ---
 
