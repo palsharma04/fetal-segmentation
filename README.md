@@ -82,13 +82,13 @@ Performance is evaluated using:
 ### nnU-Net Training
 
 - **2D (Fold 4)**
-  <img src="examples/nnunet/nnunet-2d.png" width="400"/>
+<img src="examples/nnunet/nnunet-2d.png" width="400"/>
 
 - **3D Full-Resolution (Fold 4)**
-  <img src="examples/nnunet/nnunet-3dfull.png" width="400"/>
+<img src="examples/nnunet/nnunet-3dfull.png" width="400"/>
 
 - **3D Low-Resolution (Fold 4)**
-  <img src="examples/nnunet/nnunet-3dlow.png" width="400"/>
+<img src="examples/nnunet/nnunet-3dlow.png" width="400"/>
 
 ---
 
