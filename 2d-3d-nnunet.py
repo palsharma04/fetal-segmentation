@@ -112,7 +112,7 @@ nnU-Net stores a checkpoint every 50 epochs. If you need to continue a previous 
 
 I disabled Blosc2 conpression for this step as it wasn't working. In nnunet_dataset.py I replaced "blosc2.asarray(seg, urlpath=output_filename_truncated + '.b2nd', chunks=chunks_seg, blocks=blocks_seg)" with "np.save(output_filename_truncated + '.npy', seg)" in save_seg() and saves everything as .npy instead.
 
-I wrote "print(f"⚠️ Saving segmentation for: {output_file}")" at the bottom of export_prediction.py
+I wrote "print(f" Saving segmentation for: {output_file}")" at the bottom of export_prediction.py
 """
 
 !nnUNetv2_train 001 3d_lowres 0 --npz
