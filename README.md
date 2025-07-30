@@ -75,14 +75,20 @@ Performance is evaluated using:
 ---
 
 ### MONAI Validation Dice Trend
-
-- <img src="examples/mon-val.png" width="500"/>
+<img src="examples/mon-val.png" width="500"/>
 
 ---
 
-### nnU-Net 2D/3D Combined
+### nnU-Net Training
 
-- <img src="examples/nnunet.png" width="500"/>
+- 2D (Fold 4)
+  <img src="examples/nnunet/nnunet-2d.png" width="500"/>
+
+- 3D Full-Resolution (Fold 4)
+  <img src="examples/nnunet/nnunet-3dfull.png" width="500"/>
+
+- 3D Low-Resolution (Fold 4)
+  <img src="examples/nnunet/nnunet-3dlow.png" width="500"/>
 
 ---
 
