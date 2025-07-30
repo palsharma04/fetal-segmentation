@@ -55,7 +55,31 @@ Below are examples of qualitative results from the trained models:
 
 ## References
 
-If you use this code in your research, please consider citing:
+### MONAI
+- MONAI: Medical Open Network for AI  
+  Website: [https://monai.io](https://monai.io)  
+  GitHub: [https://github.com/Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)  
+  Citation:
+@article{cardoso2022monai,
+title={MONAI: An open-source framework for deep learning in healthcare},
+author={Cardoso, M. Jorge and Li, Wenqi and Brown, Tom and others},
+journal={arXiv preprint arXiv:2211.02701},
+year={2022}
+}
 
-
+### nnU-Net
+- nnU-Net: The self-configuring framework for medical image segmentation  
+Website: [https://www.nnunet.org](https://www.nnunet.org)  
+GitHub: [https://github.com/MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)  
+Citation:
+@article{isensee2021nnu,
+title={nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation},
+author={Isensee, Fabian and Jaeger, Paul Ferdinand and Kohl, Simon Andreas August and Petersen, Jens and Maier-Hein, Klaus H},
+journal={Nature Methods},
+volume={18},
+number={2},
+pages={203--211},
+year={2021},
+publisher={Nature Publishing Group}
+}
 
