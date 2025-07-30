@@ -1,6 +1,6 @@
 # Deep Learning-Based Multi-Label Segmentation of Internal Uterine Structures in bSSFP MRI
 
-# Project Summary
+## Project Summary
 
 This repository showcases a complete deep learning pipeline for **multi-label segmentation** of fetal anatomical structures (fetus, placenta, umbilical cord, and amniotic fluid) in **bSSFP MRI scans**.  
 The project is designed for research and educational use, aiming to support clinical translation of automated fetal MRI analysis through **open-source, benchmarked models**.
