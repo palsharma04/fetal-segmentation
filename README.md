@@ -1,4 +1,4 @@
-# Deep Learning-Based Multi-Label Segmentation of Internal Uterine Structures in bSSFP MRI
+# Deep Learning for Segmentation of the Fetus, Placenta, Umbilical Cord and Amniotic Fluid for Fetal MRI
 
 ## Project Summary
 
